@@ -1,0 +1,53 @@
+body{
+    background-color: #D1D9D9;
+    
+}
+
+.top{
+    text-align: center;
+}
+
+h1{
+    font-family: 'IBM Plex Sans Thai Looped', sans-serif;
+    color: #548CFF;
+}
+
+img{
+    height:200;
+    width:250;
+    padding: auto;
+}
+.middle{
+    margin-left:35px;
+}
+
+a:link {
+    text-decoration: none;
+  }
+  
+  a:visited {
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
+  a:active {
+    text-decoration: underline;
+  }
+
+h5{
+    margin-top: 0;
+}
+
+h2{
+    color: #3E7C17;
+}
+
+.last{
+   color:#09009B;
+   font-family: 'Bitter', serif;
+    font-size: 20px;
+    font-weight: 400;
+}
